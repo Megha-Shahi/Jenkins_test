@@ -1,2 +1,2 @@
 # Jenkins_test for webhooks
-# Jenkins_test for webhooks and poll scm difference
+# Jenkins_test for webhooks and poll scm differences
